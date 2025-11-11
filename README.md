@@ -3,7 +3,8 @@
 ## URL and Screenshots
 https://www.credly.com/users/marisa-caronna
 
-<img width="604" height="604" alt="image" src="https://github.com/user-attachments/assets/8dfa6cb8-7994-43f3-9dfb-ebd03588db38" /> <img width="1204" height="1204" alt="image" src="https://github.com/user-attachments/assets/5ae969c0-c41c-46c3-942a-293fcf019e1d" />
+# <img width="604" height="604" alt="image" src="https://github.com/user-attachments/assets/8dfa6cb8-7994-43f3-9dfb-ebd03588db38" /> 
+# <img width="1204" height="1204" alt="image" src="https://github.com/user-attachments/assets/5ae969c0-c41c-46c3-942a-293fcf019e1d" />
 
 # Written Response:
 ## One or two key differences that stood out to you between relational databases (e.g., MySQL) and non-relational/document databases
